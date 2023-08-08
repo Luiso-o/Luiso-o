@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
-<h3 align="center">Hello! I am a programming student with skills in Java back-end development and database design. My passion for programming has led me to focus on learning and developing skills in creating business applications, web services and RESTful APIs using Java. In addition, I have experience in database design and management of tools such as MySQL and Oracle. I am committed to continue learning and improving these skills, with the goal of being an expert Java and database developer. Thanks for visiting my GitHub page!</h3>
+<h3 align="center">Hello! I am a programming student with skills in Java back-end development and database design. My passion for programming has led me to focus on learning and developing skills in creating business applications, web services and RESTful APIs using Java. In addition, I have experience in database design and management tools such as MySQL and Oracle. I am committed to continue learning and improving these skills, with the goal of being an expert Java and database developer. Thanks for visiting my GitHub page!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiso-o&label=Profile%20views&color=0e75b6&style=flat" alt="luiso-o" /> </p>
 
