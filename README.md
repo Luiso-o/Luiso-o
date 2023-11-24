@@ -1,6 +1,8 @@
 <h1 align="center">Hellow World!👋, I'm Luis</h1>
 <h3 align="center">"Welcome to my GitHub profile! 👋 I'm Luis, a passionate agricultural engineer who has embarked on an exciting journey in the world of programming. My newfound passion is Java development, where I strive to learn and grow every day. Thank you for visiting my page and being a part of this exciting journey of learning and development!"</h3>
 
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiso-o&label=Profile%20views&color=0e75b6&style=flat" alt="luiso-o" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luiso-o" alt="luiso-o" /></a> </p>
