@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/luisgabrieltrujillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luisgabrieltrujillo" height="30" width="40" /></a>
   <!--cambios-->
 <a href="mailto:cheportillo@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico" height="30" width="40" />
+  <img align="center" src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://www.flaticon.es/icono-gratis/gmail_5968534?term=gmail&page=1&position=4&origin=search&related_id=5968534#)" alt="Correo Electrónico" height="30" width="40" />
 </a>
 </p>
 
