@@ -9,7 +9,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/luisgabrieltrujillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luisgabrieltrujillo" height="30" width="40" /></a>
   <!--cambios-->
-<a href="cheportillo@gmail" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="CorreoElectrónico" height="30" width="40" /></a>
+<a href="mailto:cheportillo@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
