@@ -52,6 +52,8 @@
 <a href="https://sass-lang.com/styleguide/brand/" target="_blank" rel="noreferrer"> <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" alt="sass" width="35" height="35"/> </a>
 <!--Bootstrap-->
 <a href="https://getbootstrap.com/docs/5.3/getting-started" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="bootstrap" width="35" height="35"/> 
+<!--Uigradients-->
+<a href="https://uigradients.com/#DirtyFog" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idg6b_zEHS/idy-QAnJ4g.png?updated=1701837880678" alt="uigradients" width="35" height="35"/> 
 </a>
 </p>
 
