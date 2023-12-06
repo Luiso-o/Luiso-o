@@ -36,22 +36,20 @@
 <!--Golang-->
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> </p>
 
-<br/>
-
 <h3 align="left">FrontEnd Languages and Tools:</h3>
 <p align="left"> 
+<!--Angular-->
+<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/> </a> 
 <!--HTML-->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <!--Css-->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <!--Javascript-->
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="javascript" width="30" height="30"/> </a>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="javascript" width="35" height="35"/> </a>
 <!--Sass-->
-<a href="https://sass-lang.com/styleguide/brand/" target="_blank" rel="noreferrer"> <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" alt="sass" width="40" height="40"/> </a>
+<a href="https://sass-lang.com/styleguide/brand/" target="_blank" rel="noreferrer"> <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" alt="sass" width="35" height="35"/> </a>
 <!--Bootstrap-->
-<a href="https://getbootstrap.com/docs/5.3/getting-started" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> 
-<!--Flaticon-->
-<a href="https://www.flaticon.es" target="_blank" rel="noreferrer"> <img src="" alt="flaticon" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com/docs/5.3/getting-started" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="bootstrap" width="35" height="35"/> 
 </a>
 </p>
 
