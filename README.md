@@ -1,5 +1,5 @@
 <h1 align="center">Hellow World!👋, I'm Luis</h1>
-<h3 align="center">"Welcome to my GitHub profile! 👋 I'm Luis, a passionate agricultural engineer who has embarked on an exciting journey in the world of programming. My newfound passion is Java development, where I strive to learn and grow every day. Thank you for visiting my page and being a part of this exciting journey of learning and development!"</h3>
+<h3 align="center">"Welcome to my GitHub profile! 👋 I'm Luis, a passionate agricultural engineer who has embarked on an exciting journey in the world of programming. My newfound passion is Java and Angular development, where I strive to learn and grow every day. Thank you for visiting my page and being a part of this exciting journey of learning and development!"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiso-o&label=Profile%20views&color=0e75b6&style=flat" alt="luiso-o" /> </p>
 
@@ -11,19 +11,49 @@
 <a href="mailto:cheportillo@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Correo Electrónico" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+<h3 align="left">BackEnd Languages and Tools:</h3>
+<p align="left">
+<!--Java-->
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+<!--Git-->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<!--Docker-->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<!--Mongo-->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<!--Mysql-->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<!--Oracle-->
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+<!--Postman-->
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<!--Swagger-->
+<a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354420/swagger.svg" alt="swagger" width="40" height="40"/> </a>
+<!--Redis-->
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+<!--Spring-->
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+<!--Golang-->
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> </p>
+
+<br/>
+
+<h3 align="left">FrontEnd Languages and Tools:</h3>
+<p align="left"> 
+<!--HTML-->
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<!--Css-->
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<!--Javascript-->
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="javascript" width="40" height="40"/> </a>
+<!--Sass-->
+<a href="https://sass-lang.com/styleguide/brand/" target="_blank" rel="noreferrer"> <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" alt="sass" width="40" height="40"/> </a>
+<!--Bootstrap-->
+<a href="https://getbootstrap.com/docs/5.3/getting-started" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> 
+<!--Flaticon-->
+<a href="https://www.flaticon.es" target="_blank" rel="noreferrer"> <img src="" alt="flaticon" width="40" height="40"/> </a>
+</a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiso-o&show_icons=true&locale=en&layout=compact" alt="luiso-o" /></p>
 
