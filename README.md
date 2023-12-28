@@ -34,9 +34,15 @@
 <!--Python-->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png" alt="python" width="35" height="35"/> </a>
 <!--FastApi-->
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="35" height="35"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="35" height="35"/> </a>
 <!--Golang-->
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="35" height="35"/> </a> </p>
+<!--Intellij-->
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="35" height="35"/> </a>
+<!--Eclipse-->
+<a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3110/PNG/96/eclipse_icon_191751.png" alt="eclipse" width="35" height="35"/> </a>
+<!--Netbeands-->
+<a href="https://netbeans.apache.org/front/main/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" alt="netbeands" width="35" height="35"/> </a>
 
 <h3 align="left">FrontEnd Languages and Tools:</h3>
 <p align="left"> 
@@ -56,6 +62,8 @@
 <a href="https://getbootstrap.com/docs/5.3/getting-started" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="bootstrap" width="35" height="35"/> 
 <!--Uigradients-->
 <a href="https://uigradients.com/#DirtyFog" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idg6b_zEHS/idy-QAnJ4g.png?updated=1701837880678" alt="uigradients" width="35" height="35"/> 
+<!--VSC-->
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png" alt="visualEstudio" width="35" height="35"/> </a>
 </a>
 </p>
 
