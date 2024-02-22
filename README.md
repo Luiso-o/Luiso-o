@@ -5,10 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luiso-o" alt="luiso-o" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me! :D</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luisgabrieltrujillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luisgabrieltrujillo" height="30" width="40" /></a>
 <a href="mailto:cheportillo@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Correo Electrónico" height="30" width="40" /></a>
+<a href="https://luiso-o.github.io/mi_portafolio/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2282/2282226.png" alt="Portafolio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">BackEnd Languages and Tools:</h3>
