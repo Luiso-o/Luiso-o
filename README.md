@@ -14,7 +14,7 @@
 ---
 
 ### <p align="center">🌱 Sobre Mí</p>
-Soy Luis, un apasionado de la agricultura con una fuerte inclinación hacia el desarrollo de software, especialmente en Java y Angular. Me fascina explorar nuevas tecnologías y aplicar mis conocimientos en proyectos que desafíen mi creatividad y habilidades técnicas.
+Soy Luis, un desarrollador de software apasionado con amplia experiencia en Java y Angular. Me fascina explorar nuevas tecnologías y aplicar mis conocimientos en proyectos que desafíen mi creatividad y habilidades técnicas. Siempre estoy en busca de oportunidades para innovar y mejorar mis capacidades en el desarrollo de soluciones eficientes y efectivas. Mi enfoque principal es crear aplicaciones que no solo cumplan con los requisitos funcionales sino que también ofrezcan una excelente experiencia de usuario.
 
 ### <p align="center">🛠️ Herramientas y Tecnologías </p>
 
