@@ -7,16 +7,16 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=luiso-o" alt="luiso-o" />
+    <img src="https://github-profile-trophy.vercel.app/?username=luiso-o" alt="luiso-o"/>
   </a>
 </p>
 
 ---
 
-### 🌱 Sobre Mí
+### <p align="center">🌱 Sobre Mí</p>
 Soy Luis, un apasionado de la agricultura con una fuerte inclinación hacia el desarrollo de software, especialmente en Java y Angular. Me fascina explorar nuevas tecnologías y aplicar mis conocimientos en proyectos que desafíen mi creatividad y habilidades técnicas.
 
-### 🛠️ Herramientas y Tecnologías ####
+### <p align="center">🛠️ Herramientas y Tecnologías </p>
 
 <p align="center">Backend</p>
 <p align="center">
@@ -70,7 +70,6 @@ Soy Luis, un apasionado de la agricultura con una fuerte inclinación hacia el d
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiso-o&show_icons=true&locale=en&layout=compact" alt="
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiso-o&show_icons=true&locale=en&layout=compact" alt="luiso-o" /></p>
 
